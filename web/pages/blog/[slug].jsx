@@ -45,7 +45,6 @@ const ptComponents = {
 
 
 function Post({post}) {
-    console.log(post)
     const date = new Date(post.publishedAt);
     return <div>
 

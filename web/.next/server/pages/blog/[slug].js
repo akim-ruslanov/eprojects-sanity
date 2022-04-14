@@ -100,7 +100,6 @@ const ptComponents = {
     }
 };
 function Post({ post  }) {
-    console.log(post);
     const date = new Date(post.publishedAt);
     return(/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
         children: [
