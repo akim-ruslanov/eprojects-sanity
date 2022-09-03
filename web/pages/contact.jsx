@@ -44,7 +44,7 @@ export default function Contact() {
                     <p>
                     <FontAwesomeIcon icon={faFileSignature} className="contact-icon"/>
                     <a href="https://drive.google.com/file/d/1C-sji94WjETOzWQdWio3csK6R9c5WBMy/view?usp=sharing">
-                        Sponsorhsip Package
+                        Sponsorship Package
                     </a>
                     </p>
                 </div>

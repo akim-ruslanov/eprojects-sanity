@@ -4,9 +4,9 @@ import {faLinkedin, faInstagram, faFacebook} from "@fortawesome/free-brands-svg-
 
 function Footer() {
     return (
-        <footer className="page-footer font-small blue pt-4">
+        <footer className="page-footer font-small blue pt-4 padding-bottom-md">
 
-        <div className="container-fluid text-center text-md-left px-3 px-sm-5">
+        <div className="container-fluid text-center text-md-left px-3 py-4 pb-5 px-sm-5">
 
             <div className="row">
 
@@ -24,7 +24,7 @@ function Footer() {
 
                 <ul className="list-unstyled footer-link">
                 <li>
-                    <a href="https://drive.google.com/file/d/1C-sji94WjETOzWQdWio3csK6R9c5WBMy/view?usp=sharing">Sponsorhsip Package</a>
+                    <a href="https://drive.google.com/file/d/1C-sji94WjETOzWQdWio3csK6R9c5WBMy/view?usp=sharing">Sponsorship Package</a>
                 </li>
                 <li>
                     <a href="/blog">Blog</a>
